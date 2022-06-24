@@ -1,2 +1,2 @@
 # Gluttonous-Snake
-This is a Snake game for Windows
+This is a Gluttonous Snake game for Windows, based on linear list structure implementation
